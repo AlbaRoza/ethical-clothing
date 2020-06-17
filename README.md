@@ -1,8 +1,14 @@
 # Ethical and sustaible clothing list
 
-List of sustainable and ethical clothing brands. 
+This project intends to gather different clothing brands that complies both with fair trade conditions for the manufacturers and also respects the environment by using sustainable materials.
 
-This repo intends to gather different clothing brands that complies both with fair trade conditions for the manufacturers and also respects the environment by using sustainable materials.
+## List of brands
+
+You can take a look at the WIP list [here](https://github.com/AlbaRoza/ethical-clothing/list-of-ethical-clothing-brands.md)
+
+## Code of Conduct
+
+This project is open to contributors! If you want to become part of it, please read the  [Code of Conduct](https://github.com/AlbaRoza/ethical-clothing/CODE_OF_CONDUCT.md). Please take a look at it if.
 
 ## Contribute
 
