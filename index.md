@@ -4,7 +4,7 @@ Need clothes but don't know where to get them from? Looking for a fairtrade and 
 
 ## List of brands
 
-You can take a look at the WIP list [[here|list-of-ethical-clothing-brands]]
+You can take a look at the WIP list [[List-of-ethical-clothing-brands]] 
 
 ## Contribute
 
